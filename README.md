@@ -1,2 +1,2 @@
-Day 1 : NOR Gate \n
+Day 1 : NOR Gate \
 Day 2 : Half Adder 
