@@ -7,5 +7,6 @@ Day 6 : Decoder 3 to 8 \
 Day 7 : Encoder 4 to 2 \
 Day 8 : BCD Encoder \
 Day 9 : Priority Encoder 4_2 \
-Day 10 : Priority Encoder 8_3 
+Day 10 : Priority Encoder 8_3 \
+Day 11 : Mux 2 X 1 
 
