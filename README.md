@@ -11,4 +11,5 @@ Day 10 : Priority Encoder 8_3 \
 Day 11 : Mux 2 X 1 \
 Day 12 : Mux 4 X 1 \
 Day 13 : 4 Bit Ripple Carry Adder \
-Day 14: Bi - directional Buffer
+Day 14 : Bi - directional Buffer \
+Day 15 : 1 bit Magnitude Comparator 
