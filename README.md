@@ -13,5 +13,5 @@ Day 12 : Mux 4 X 1 \
 Day 13 : 4 Bit Ripple Carry Adder \
 Day 14 : Bi - directional Buffer \
 Day 15 : 1 bit Magnitude Comparator \
-Day 16: 4X1 MUX using Decoder and Buffer \
-Day 17: 4 Bit Adder - Subtractor 
+Day 16 : 4X1 MUX using Decoder and Buffer \
+Day 17 : 4 Bit Adder - Subtractor 
